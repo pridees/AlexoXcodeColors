@@ -19,6 +19,7 @@ $ git clone https://github.com/pridees/AlexoXcodeColors.git
 3. Move AlexoXcodeColors.xcodetheme
 ```
 cp AlexoXcodeColors.xcodetheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
+```
 
 Font on preview [JetBrains Mono](https://www.jetbrains.com/lp/mono)
 
